@@ -1,2 +1,7 @@
 print('Hello world!')
 print("phatvhara")
+print("phatvhara")
+print("phatvhara")
+print("phatvhara")
+print("phatvhara")
+print("phatvhara")
